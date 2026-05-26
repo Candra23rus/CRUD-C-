@@ -1,0 +1,15 @@
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.csproj.AssemblyReference.cache
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.Properties.Resources.resources
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.csproj.GenerateResource.cache
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.csproj.CoreCompileInputs.cache
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.LoginForm.resources
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\bin\Debug\AplikasiSekolah.exe.config
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\bin\Debug\AplikasiSekolah.exe
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\bin\Debug\AplikasiSekolah.pdb
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.exe
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.pdb
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.MainForm.resources
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.AttendanceForm.resources
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.DashboardForm.resources
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.AssesementForm.resources
+C:\Users\rplsk\source\repos\AplikasiSekolah\AplikasiSekolah\obj\Debug\AplikasiSekolah.ScoreForm.resources
